@@ -36,8 +36,8 @@ sidebar:
       - item: Traveling
         link:
 
-career profile:
-    title:  Profile
+career-profile:
+    title: Profile
     summary: |
             Currently I am studying Informatics in the Ionian University and I am in my third year of my studies. In the future I aspire to be a game developer because the thing I like the most about programming is that I actually get to play with what I created.
       
