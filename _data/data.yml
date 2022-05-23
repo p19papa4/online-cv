@@ -44,7 +44,7 @@ career-profile:
 education:
     - degree: Informatics
       university: Ionian University
-      time: 2019 - 
+      time: 2019 - present time
 experiences:
     - details: |
          In this point in time I don't have any real experience as I am focusing on getting my degree.
@@ -63,6 +63,9 @@ skills:
 
       - name: html5 and css
         level: 70%
+
+      - name: Git and Github
+        level: 60%
 
 footer: >
      Designed by <a href="https://github.com/p19papa4" target="_blank" rel="nofollow">Georgios</a>
